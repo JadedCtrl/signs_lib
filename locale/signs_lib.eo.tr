@@ -1,0 +1,12 @@
+# textdomain: signs_lib
+Locked sign, owned by @1@n=Ŝlosita afiŝo, posedata de @1@n
+Skims through all currently-loaded sign-bearing mapblocks, clears away any entities within each sign's node space, and regenerates their text entities, if any.=Trairas ĉiun signo-pendantan mondero nun enlegita, forigas ĉiun estaĵon en la monderspaco de ĉiu afiŝo, kaj rekreas iliajn tekstajn estaĵojn.
+There are no signs in the currently-loaded terrain.=Ekzistas neniu afiŝo en la nunenlegitaj mondopartoj.
+Found a total of @1 sign nodes across @2 blocks.=Trovis sume @1 afiŝojn tra @2 monderoj.
+Regenerating sign entities ...=Rekreas afiŝajn estaĵojn…
+Finished.=Finite.
+Write=Skribi
+Unicode font=Unikoda signoformaro
+Wide font=Larĝa signoformato
+Wooden Wall Sign=Ligna afiŝo
+Steel Wall Sign=Ŝtala afiŝo
